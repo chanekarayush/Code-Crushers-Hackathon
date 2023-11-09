@@ -17,7 +17,7 @@ Welcome to Team Code Crushers' project for the Geekvishwa Hackathon! <br>
 We are excited to showcase our innovative ideas and solutions.  <br>
 Stay tuned for updates and progress! <br>
 #### Selected Domain - 
-**Environment and Sustainability**
+**Environment and Sustainability 🌿🌎**
 
 #### Topics Selected - 
 * Carbon Footprint Calculator
