@@ -11,6 +11,23 @@
 
 ## Project Description
 
-Welcome to Team Code Crushers' project for the Geekvishwa Hackathon! 
-We are excited to showcase our innovative ideas and solutions. 
-Stay tuned for updates and progress.
+Welcome to Team Code Crushers' project for the Geekvishwa Hackathon! <br>
+We are excited to showcase our innovative ideas and solutions.  <br>
+Stay tuned for updates and progress! <br>
+#### Selected Domain - 
+**Environment and Sustainability**
+
+#### Topics Selected - 
+* Carbon Footprint Calculator
+* Biodiversity Map (Animals)
+* Sustainable Lifestyle Product Catalogue
+
+
+
+## Project Updates
+
+### Week 1
+
+- Set up the project repository
+- Brainstormed ideas regarding Environment and Sustainability
+- Finalised Ideas regarding the same.
