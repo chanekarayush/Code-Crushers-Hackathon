@@ -20,15 +20,15 @@ Stay tuned for updates and progress! <br>
 **Environment and Sustainability 🌿🌎**
 
 #### Topics Selected - 
-* Carbon Footprint Calculator
-* Biodiversity Map (Animals)
-* Sustainable Lifestyle Product Catalogue
+❎ Carbon Footprint Calculator 👣 🌏 <br>
+❎ Biodiversity Map (Animals) 🦒🐅 <br>
+❎ Sustainable Lifestyle Product Catalogue 👕 <br>
 
 
 
-## Project Updates
+## Project Updates 🗓️
 
-### Week 1
+### ☑️ Week 1
 
 - Set up the project repository
 - Brainstormed ideas regarding Environment and Sustainability
