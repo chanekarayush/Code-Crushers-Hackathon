@@ -1,7 +1,7 @@
 # Team Code Crushers - Geekvishwa Hackathon
 
 ## This is the Official Repository for Team Code Crushers participating in the Geekvishwa Hackathon
-**Weekly progress will be updated <a href="https://github.com/chanekarayush/Code-Crushers-Hackathon#project-updates">here.</a> <br>
+**Weekly progress will be updated <a href="#project-updates">here.</a> <br>
 For any questions feel free to reach out!**
 
 ## Participants
