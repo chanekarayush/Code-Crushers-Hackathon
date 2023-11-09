@@ -8,3 +8,9 @@
 2. Devashish Bhirdi
 3. Gaurav Waghmare
 4. Jay Sable
+
+## Project Description
+
+Welcome to Team Code Crushers' project for the Geekvishwa Hackathon! 
+We are excited to showcase our innovative ideas and solutions. 
+Stay tuned for updates and progress.
