@@ -40,7 +40,7 @@ Stay tuned for updates and progress! <br>
 - [Project Website](https://655a533ebac2d2640ee6b1ad--aesthetic-malabi-df483e.netlify.app/)
 
 > [!Important]
-> 1. Website Information on how to use.
-> 2. For Carbon footprint click on the respective tab in the page header and enter the calculator.
-> 3. Animal Database - Click on more info please click on "Asiatic Lion" and Cheetah.
-> 4. For Animal Map Click on the respective tab in the page header.
+> ## Website Information on how to use.
+> 1. For Carbon footprint click on the respective tab in the page header and enter the calculator.
+> 2. Animal Database - Click on more info please click on "Asiatic Lion" and Cheetah.
+> 3. For Animal Map Click on the respective tab in the page header.
