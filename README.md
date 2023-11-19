@@ -34,7 +34,7 @@ Stay tuned for updates and progress! <br>
 - Brainstormed ideas regarding Environment and Sustainability
 - Finalised Ideas regarding the same.
 
-### Week 2
+### ☑️ Week 2
 
 - Implemented the ideas discussed
-- Project Website [https://655a533ebac2d2640ee6b1ad--aesthetic-malabi-df483e.netlify.app/]
+- [Project Website](https://655a533ebac2d2640ee6b1ad--aesthetic-malabi-df483e.netlify.app/)
